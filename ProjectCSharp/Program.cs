@@ -134,42 +134,23 @@ class Program
         switch (iMonth)
         {
             case 1:
-                Console.WriteLine("31 ngay");
-                break;
-            case 2:
-                Console.WriteLine("28 hoac 29 ngay");
-                break;
             case 3:
-                Console.WriteLine("31 ngay");
+            case 5:
+            case 7:
+            case 8:
+            case 9:
+            case 10:
+            Console.WriteLine("Thang {0} co 31 ngay", iMonth);
                 break;
             case 4:
-                Console.WriteLine("30 ngay");
-                break;
-            case 5:
-                Console.WriteLine("31 ngay");
-                break;
             case 6:
-                Console.WriteLine("30 ngay");
-                break;
-            case 7:
-                Console.WriteLine("31 ngay");
-                break;
-            case 8:
-                Console.WriteLine("31 ngay");
-                break;
             case 9:
-                Console.WriteLine("30 ngay");
-                break;
-            case 10:
-                Console.WriteLine("31 ngay");
-                break;
             case 11:
-                Console.WriteLine("30 ngay");
+            Console.WriteLine("Thang {0} co 30 ngay", iMonth);
                 break;
-            case 12:
-                Console.WriteLine("31 ngay");
+            case 2:
+            Console.WriteLine("Thang {0} co 28 hoac 29 ngay", iMonth);
                 break;
-
         }
 
     }
@@ -180,7 +161,6 @@ class Program
         Bai3();
         Bai4();
         Bai5();
-        Console.WriteLine("Beo Dep Try");
     }
 }
   
