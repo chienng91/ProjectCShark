@@ -107,8 +107,6 @@ class Program
                     }
 
                 }
-
-
             }
             if (isNamNhuan)
             {
@@ -118,7 +116,6 @@ class Program
             {
                 Console.WriteLine("{0} khong la nam nhuan", nam);
             }
-
         }
     }
     static void Bai5()
@@ -138,8 +135,8 @@ class Program
             case 5:
             case 7:
             case 8:
-            case 9:
             case 10:
+            case 12:
             Console.WriteLine("Thang {0} co 31 ngay", iMonth);
                 break;
             case 4:
