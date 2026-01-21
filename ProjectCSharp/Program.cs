@@ -180,6 +180,7 @@ class Program
         Bai3();
         Bai4();
         Bai5();
+        Console.WriteLine("Beo Dep Try");
     }
 }
   
