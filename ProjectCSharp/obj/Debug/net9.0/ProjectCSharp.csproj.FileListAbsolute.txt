@@ -1,0 +1,14 @@
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\ProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\ProjectCSharp.AssemblyInfoInputs.cache
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\ProjectCSharp.AssemblyInfo.cs
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\ProjectCSharp.csproj.CoreCompileInputs.cache
+D:\Project\ProjectCSharp\ProjectCSharp\bin\Debug\net9.0\ProjectCSharp.exe
+D:\Project\ProjectCSharp\ProjectCSharp\bin\Debug\net9.0\ProjectCSharp.deps.json
+D:\Project\ProjectCSharp\ProjectCSharp\bin\Debug\net9.0\ProjectCSharp.runtimeconfig.json
+D:\Project\ProjectCSharp\ProjectCSharp\bin\Debug\net9.0\ProjectCSharp.dll
+D:\Project\ProjectCSharp\ProjectCSharp\bin\Debug\net9.0\ProjectCSharp.pdb
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\ProjectCSharp.dll
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\refint\ProjectCSharp.dll
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\ProjectCSharp.pdb
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\ProjectCSharp.genruntimeconfig.cache
+D:\Project\ProjectCSharp\ProjectCSharp\obj\Debug\net9.0\ref\ProjectCSharp.dll
